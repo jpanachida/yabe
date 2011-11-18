@@ -2,6 +2,10 @@
 # For example, for French create a messages.fr file
 #
 
+views.main.tools.login = Log in to write something
+views.Application.listTagged.title = Posts tagged with %s
+views.Admin.index.welcome = Welcome %1$s, <span>you have written %2$s %3$s so far</span> 
+
 title=Title
 content=Content
 postedAt=Posted at

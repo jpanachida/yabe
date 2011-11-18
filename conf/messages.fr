@@ -1,0 +1,66 @@
+# You can specialize this file for each language.
+# For example, for French create a messages.fr file
+#
+
+views.main.tools.login = Connectez-vous pour écrire quelque chose 
+
+post = article 
+Post = Article 
+posts = articles 
+Posts = Articles 
+comment = commentaire 
+Comment = Commentaire 
+comments = commentaires 
+Comments = Commentaires 
+user = utilisateur 
+User = Utilisateur 
+users = utilisateur 
+Users = Utilisateurs 
+
+# play/modules/crud (administration) 
+crud.title = Administration 
+crud.home = Home 
+crud.blank = Nouveau 
+crud.index.title = Choisissez l'objet à modifier 
+crud.index.objectType = Type objet 
+crud.index.action = XXX 
+crud.index.add = Ajouter 
+crud.add = Ajouter &{%s} 
+crud.list.title = &{%s} 
+crud.list.size = %d &{%s} 
+crud.list.totalSize = %d total 
+crud.pagination.previous = « Précédent 
+crud.pagination.next = Suivant » 
+crud.pagination.last = Dernier »» 
+crud.pagination.first = «« Premier 
+crud.show.title = Modifier &{%s} 
+crud.save = Enregistrer 
+crud.saveAndContinue = Enregistrer et continuez à modifier 
+crud.cancel = Annuler 
+crud.hasErrors = Corrigez les erreurs s.v.p. 
+crud.blank.title = Ajouter &{%s} 
+crud.saveAndAddAnother = Enregistrer et ajouter un autre 
+crud.delete = Supprimer &{%s} 
+crud.created = &{%s} a été crée 
+crud.saved = &{%s} est enregistré 
+crud.deleted = &{%s} est supprimé 
+crud.delete.error = Ne peut pas supprimer l’objet 
+crud.search = Chercher 
+crud.none = (aucun) 
+crud.help.required = Obligatoire. 
+crud.help.minlength = Longeur minimum est %d. 
+crud.help.maxlength = Longeur maximum est %d. 
+crud.help.email = Adresse e-mail valide 
+crud.help.dateformat = En format YYYY-MM-DD. 
+crud.help.numeric = Numerique. 
+crud.help.min = Doit être plus grand que %d. 
+crud.help.future = Dans le futur. 
+crud.help.past = Dans le passé. 
+crud.help.after = Après %s. 
+crud.help.before = Avant %s. 
+crud.help.range = Entre %d et %d 
+ 
+# play/modules/secure 
+secure.username = Votre adresse e-mail: 
+secure.password = Votre mot de passe: 
+secure.signin = Connectez-vous maintenant 
